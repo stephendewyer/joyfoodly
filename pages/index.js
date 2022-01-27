@@ -54,7 +54,7 @@ const IndexPage = () => {
         <div className="paragraphs">
             The Joyful 12! is broken into four seasons, each with recipes, videos, buying/storing tips, and ways to engage your kids in the cooking process.   
             There are 144 gluten free vegetarian recipes and over 50 skill building videos to help you master 48 vegetables and fruits in a year.<br /><br />
-            Our video library is where yo&apos;ll find all of our videos on how to prep seasonal produce and how to learn easy and healthy cooking methods to make your veggies sing with flavor.
+            Our video library is where you&apos;ll find all of our videos on how to prep seasonal produce and how to learn easy and healthy cooking methods to make your veggies sing with flavor.
         </div>
         <div className="slider">
           <JoyfoodlySlideCarousel />
