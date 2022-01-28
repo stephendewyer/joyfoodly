@@ -175,6 +175,10 @@ a.button:hover {
 
 @media screen and (max-width: 750px){
 
+  html { 
+    -webkit-text-size-adjust: none; 
+  }
+
   .logo {
     min-width: 250px;
   }
