@@ -41,13 +41,13 @@ const IndexPage = () => {
             <Image src={yellow_shadow} layout="responsive" alt="yellow shadow" />
           </div>
           <div className="cookbook_cover bouncy">
-            <a href="https://drive.google.com/file/d/1jyc9xCM2cZOj6lePtlwVJXBfQ7JabXS9/view?usp=sharing_eil_m&invite=CIPO-50C&ts=61e8345c" aria-label="link to PDF">
+            <a href="https://drive.google.com/file/d/1OPMsIfKGE7Q_e6U_rkmQxoHgbn_vEfAi/view" aria-label="link to PDF">
               <Image src={Joyful12_cover} layout="responsive" alt="Joyful12! cover" />
             </a>
           </div>
         </div>
         <div className="button_container">
-          <a href="https://drive.google.com/file/d/1jyc9xCM2cZOj6lePtlwVJXBfQ7JabXS9/view?usp=sharing_eil_m&invite=CIPO-50C&ts=61e8345c" className="button" aria-label="link to PDF">
+          <a href="https://drive.google.com/file/d/1OPMsIfKGE7Q_e6U_rkmQxoHgbn_vEfAi/view" className="button" aria-label="link to PDF">
             eBook (PDF)
           </a>
         </div>
